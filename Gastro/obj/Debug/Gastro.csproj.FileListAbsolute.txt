@@ -1,0 +1,87 @@
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\Gastro.exe.config
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\Gastro.exe
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\Gastro.pdb
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\ExcelDataReader.dll
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\ExcelDataReader.pdb
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\ExcelDataReader.xml
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Administrator\source\repos\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.Form1.resources
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.exe
+C:\Users\Administrator\source\repos\Gastro\Gastro\obj\Debug\Gastro.pdb
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\Gastro.exe.config
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\Gastro.exe
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\Gastro.pdb
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.dll
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.dll
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.pdb
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.xml
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\AA-STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.xml
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csprojAssemblyReference.cache
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.Form1.resources
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.Properties.Resources.resources
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csproj.GenerateResource.cache
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csproj.CoreCompileInputs.cache
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csproj.CopyComplete
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.exe
+D:\AA-STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.pdb
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\Gastro.exe.config
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\Gastro.exe
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\Gastro.pdb
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.dll
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.dll
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.pdb
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.xml
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\1STUDY\University\DEU\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.xml
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.Properties.Resources.resources
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csproj.GenerateResource.cache
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csproj.CoreCompileInputs.cache
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csproj.CopyComplete
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.exe
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.pdb
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Gastro.csprojAssemblyReference.cache
+D:\1STUDY\University\DEU\Gastro\Gastro\obj\Debug\Processes.Form1.resources
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\Gastro.exe.config
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\Gastro.exe
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\Gastro.pdb
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\ExcelDataReader.dll
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\ExcelDataReader.pdb
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\ExcelDataReader.xml
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.csproj.AssemblyReference.cache
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.csproj.SuggestedBindingRedirects.cache
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Processes.Form1.resources
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.Properties.Resources.resources
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.csproj.GenerateResource.cache
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.csproj.CoreCompileInputs.cache
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.csproj.CopyComplete
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.exe
+D:\Engineering\University\2nd\Gastro\Gastro Thesis\Gastro\obj\Debug\Gastro.pdb
+E:\repository\Gastro\Gastro\bin\Debug\Gastro.exe.config
+E:\repository\Gastro\Gastro\bin\Debug\Gastro.exe
+E:\repository\Gastro\Gastro\bin\Debug\Gastro.pdb
+E:\repository\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.dll
+E:\repository\Gastro\Gastro\bin\Debug\ExcelDataReader.dll
+E:\repository\Gastro\Gastro\bin\Debug\ExcelDataReader.pdb
+E:\repository\Gastro\Gastro\bin\Debug\ExcelDataReader.xml
+E:\repository\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\repository\Gastro\Gastro\bin\Debug\ExcelDataReader.DataSet.xml
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.csproj.AssemblyReference.cache
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.csproj.SuggestedBindingRedirects.cache
+E:\repository\Gastro\Gastro\obj\Debug\Processes.Form1.resources
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.Properties.Resources.resources
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.csproj.GenerateResource.cache
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.csproj.CoreCompileInputs.cache
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.csproj.CopyComplete
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.exe
+E:\repository\Gastro\Gastro\obj\Debug\Gastro.pdb
