@@ -218,7 +218,7 @@ namespace Processes
             }
             else
             {
-                /////
+                //
             }
             dataReader.Close();
             cmd.Dispose();
@@ -247,7 +247,7 @@ namespace Processes
             }
             else
             {
-                /// Error
+              //
             }
             dataReader.Close();
             cmd.Dispose();

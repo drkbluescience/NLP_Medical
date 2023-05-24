@@ -81,6 +81,7 @@ namespace Processes
             int ay = dt.Month;
             int yil = dt.Year;
             textBox2.Text = "Tarih: " + gun + ".0" + ay + "." + yil + "                  Saat: " + saat + "." + dakika;
+
             for (int i = 0; i < items_.Length; i++)
             {
                 comboBox4.Items.Add(items_[i]);
